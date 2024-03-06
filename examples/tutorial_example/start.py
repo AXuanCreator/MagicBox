@@ -19,7 +19,7 @@ def main():
 	# menu = Menu()
 	# subMenu = SubMenu()
 	# checkMenu = CheckMenu()
-	#contextMenu = ContextMenu()
+	# contextMenu = ContextMenu()
 	# toolbar = Toolbar()
 	# mainwindows = MainWin()
 	# ablable = ACLabel()
@@ -54,7 +54,6 @@ def main():
 	# beziercurve = BezierCurve()
 
 	sys.exit(app.exec())
-
 
 
 if __name__ == '__main__':
